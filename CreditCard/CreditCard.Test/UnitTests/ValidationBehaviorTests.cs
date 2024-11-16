@@ -1,4 +1,4 @@
-﻿using CreditCardValidator.Core.Application;
+﻿using CreditCard.Core.Application;
 using ErrorOr;
 using MediatR;
 using Moq;
