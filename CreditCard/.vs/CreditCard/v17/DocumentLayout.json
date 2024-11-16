@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Z2\\CreditCard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\controllers\\v1\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|solutionrelative:creditcard.api\\controllers\\v1\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validatecreditcardrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validatecreditcardrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6467A27D-985E-4ABA-BE14-BF9A9345D5B4}|CreditCard.Test\\CreditCard.Test.csproj|d:\\z2\\creditcard\\creditcard.test\\integerationtests\\creditcardcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6467A27D-985E-4ABA-BE14-BF9A9345D5B4}|CreditCard.Test\\CreditCard.Test.csproj|solutionrelative:creditcard.test\\integerationtests\\creditcardcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|solutionrelative:creditcard.api\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|solutionrelative:creditcard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\controllers\\v1\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|solutionrelative:creditcard.api\\controllers\\v1\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validatecreditcardrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validatecreditcardrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validationbihaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validationbihaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6467A27D-985E-4ABA-BE14-BF9A9345D5B4}|CreditCard.Test\\CreditCard.Test.csproj|d:\\z2\\creditcard\\creditcard.test\\unittests\\creditcardrequestvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,47 +85,20 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErrorController.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\ErrorController.cs",
-              "RelativeDocumentMoniker": "CreditCard.Api\\ErrorController.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\ErrorController.cs*",
-              "RelativeToolTip": "CreditCard.Api\\ErrorController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:30:00.529Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreditCardController.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
-              "RelativeDocumentMoniker": "CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\Controllers\\V1\\CreditCardController.cs*",
-              "RelativeToolTip": "CreditCard.Api\\Controllers\\V1\\CreditCardController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:21:26.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValidationBehaviorTests.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
-              "RelativeDocumentMoniker": "CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
-              "RelativeToolTip": "CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:09:53.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ValidateCreditCardRequestHandler.cs",
               "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequestHandler.cs",
               "RelativeDocumentMoniker": "CreditCard.Core\\Application\\ValidateCreditCardRequestHandler.cs",
@@ -138,7 +111,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardController.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
+              "RelativeDocumentMoniker": "CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
+              "RelativeToolTip": "CreditCard.Api\\Controllers\\V1\\CreditCardController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:21:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreditCardControllerTests.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Test\\IntegerationTests\\CreditCardControllerTests.cs",
+              "RelativeDocumentMoniker": "CreditCard.Test\\IntegerationTests\\CreditCardControllerTests.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Test\\IntegerationTests\\CreditCardControllerTests.cs",
+              "RelativeToolTip": "CreditCard.Test\\IntegerationTests\\CreditCardControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:33:02.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidateCreditCardRequest.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "RelativeDocumentMoniker": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "RelativeToolTip": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:48:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\ErrorController.cs",
+              "RelativeDocumentMoniker": "CreditCard.Api\\ErrorController.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\ErrorController.cs",
+              "RelativeToolTip": "CreditCard.Api\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:30:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationBehaviorTests.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
+              "RelativeDocumentMoniker": "CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
+              "RelativeToolTip": "CreditCard.Test\\UnitTests\\ValidationBehaviorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:09:53.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CreditCard.Api\\Properties\\launchSettings.json",
@@ -151,41 +189,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Api\\Program.cs",
               "RelativeDocumentMoniker": "CreditCard.Api\\Program.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\Program.cs*",
-              "RelativeToolTip": "CreditCard.Api\\Program.cs*",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Api\\Program.cs",
+              "RelativeToolTip": "CreditCard.Api\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T21:25:36.012Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ValidationBihaviour.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidationBihaviour.cs",
-              "RelativeDocumentMoniker": "CreditCard.Core\\Application\\ValidationBihaviour.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidationBihaviour.cs",
-              "RelativeToolTip": "CreditCard.Core\\Application\\ValidationBihaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:09:33.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ApplicationServicesRegistration.cs",
               "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\ApplicationServicesRegistration.cs",
               "RelativeDocumentMoniker": "CreditCard.Core\\ApplicationServicesRegistration.cs",
@@ -207,19 +224,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T22:04:21.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidateCreditCardRequest.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
-              "RelativeDocumentMoniker": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
-              "RelativeToolTip": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:48:16.322Z",
               "EditorCaption": ""
             },
             {
