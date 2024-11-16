@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditCard.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8fec6f051ea59edefc4c6631966bc292ce85c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcad0f5733ac542f9575af5df64d7a7cbafb5b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditCard.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditCard.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

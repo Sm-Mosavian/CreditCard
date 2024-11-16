@@ -32,3 +32,5 @@ d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\CreditCard.Core.dll
 d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\CreditCard.Core.pdb
 d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCard.Api.csproj.AssemblyReference.cache
 d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCa.D0D1BED5.Up2Date
+d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCard.Api.MvcApplicationPartsAssemblyInfo.cs
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
