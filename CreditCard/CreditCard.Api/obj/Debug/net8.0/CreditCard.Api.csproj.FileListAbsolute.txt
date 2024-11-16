@@ -23,3 +23,12 @@ d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\refint\CreditCard.Api.dll
 d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCard.Api.pdb
 d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCard.Api.genruntimeconfig.cache
 d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\ref\CreditCard.Api.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\ErrorOr.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\FluentValidation.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\MediatR.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\CreditCard.Core.dll
+d:\z2\CreditCard\CreditCard.Api\bin\Debug\net8.0\CreditCard.Core.pdb
+d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCard.Api.csproj.AssemblyReference.cache
+d:\z2\CreditCard\CreditCard.Api\obj\Debug\net8.0\CreditCa.D0D1BED5.Up2Date
