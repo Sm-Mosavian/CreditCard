@@ -10,4 +10,8 @@
     <Folder Include="Controllers\V1\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CreditCard.Core\CreditCard.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -29,4 +29,8 @@
     <Folder Include="ArchtectureTest\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CreditCard.Api\CreditCard.Api.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -97,3 +97,4 @@ d:\z2\CreditCard\CreditCard.Test\obj\Debug\net8.0\refint\CreditCard.Test.dll
 d:\z2\CreditCard\CreditCard.Test\obj\Debug\net8.0\CreditCard.Test.pdb
 d:\z2\CreditCard\CreditCard.Test\obj\Debug\net8.0\CreditCard.Test.genruntimeconfig.cache
 d:\z2\CreditCard\CreditCard.Test\obj\Debug\net8.0\ref\CreditCard.Test.dll
+d:\z2\CreditCard\CreditCard.Test\obj\Debug\net8.0\MvcTestingAppManifest.json
