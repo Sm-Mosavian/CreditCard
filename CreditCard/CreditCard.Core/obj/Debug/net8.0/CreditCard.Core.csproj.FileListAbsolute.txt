@@ -1,0 +1,12 @@
+d:\z2\CreditCard\CreditCard.Core\bin\Debug\net8.0\CreditCard.Core.deps.json
+d:\z2\CreditCard\CreditCard.Core\bin\Debug\net8.0\CreditCard.Core.dll
+d:\z2\CreditCard\CreditCard.Core\bin\Debug\net8.0\CreditCard.Core.pdb
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.csproj.AssemblyReference.cache
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.GeneratedMSBuildEditorConfig.editorconfig
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.AssemblyInfoInputs.cache
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.AssemblyInfo.cs
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.csproj.CoreCompileInputs.cache
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.dll
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\refint\CreditCard.Core.dll
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\CreditCard.Core.pdb
+d:\z2\CreditCard\CreditCard.Core\obj\Debug\net8.0\ref\CreditCard.Core.dll

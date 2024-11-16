@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Z2\\CreditCard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6467A27D-985E-4ABA-BE14-BF9A9345D5B4}|CreditCard.Test\\CreditCard.Test.csproj|d:\\z2\\creditcard\\creditcard.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6467A27D-985E-4ABA-BE14-BF9A9345D5B4}|CreditCard.Test\\CreditCard.Test.csproj|solutionrelative:creditcard.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|d:\\z2\\creditcard\\creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9D402-C1E8-48B4-8C09-26E884EF2FBA}|CreditCard.Core\\CreditCard.Core.csproj|solutionrelative:creditcard.core\\application\\validatecreditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DED80776-CF45-4FA6-9382-2C0289DC4736}|CreditCard.Api\\CreditCard.Api.csproj|d:\\z2\\creditcard\\creditcard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CreditCard.Test\\UnitTest1.cs",
-              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Test\\UnitTest1.cs",
-              "RelativeToolTip": "CreditCard.Test\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ValidateCreditCardRequest.cs",
+              "DocumentMoniker": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "RelativeDocumentMoniker": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "ToolTip": "d:\\Z2\\CreditCard\\CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "RelativeToolTip": "CreditCard.Core\\Application\\ValidateCreditCardRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:39:18.866Z",
+              "WhenOpened": "2024-11-16T21:48:16.322Z",
               "EditorCaption": ""
             },
             {
