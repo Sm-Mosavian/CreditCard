@@ -56,6 +56,8 @@ CreditCard is a C# .NET 8 application designed to validate credit card numbers u
 - Service registrations necessary for the application are defined in the ApplicationServicesRegistration class, which is invoked in Program.cs of the API project.
   This class configures dependency injection for FluentValidation and MediatR, ensuring that the validation behavior is applied uniformly across requests.
 
+  -What is next? Improve api performance by evaluating current situation using stress test, load test and spike test.
+
 - The CreditCard.Test project contains three distinct folders for unit tests, integration tests, and architecture tests. Each class in the Core project is tested individually to ensure correct functionality.
   For the CreditCardController, integration tests are implemented to verify that the API behaves as expected under various scenarios, including both valid and invalid credit card numbers.
 
